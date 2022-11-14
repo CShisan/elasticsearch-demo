@@ -1,0 +1,4 @@
+es:
+  host: 192.168.31.9
+  port: 9200
+  scheme: http

@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "es",
+      "type": "com.cshisan.elasticsearch.config.EsConfig",
+      "sourceType": "com.cshisan.elasticsearch.config.EsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "es.host",
+      "type": "java.lang.String",
+      "sourceType": "com.cshisan.elasticsearch.config.EsConfig"
+    },
+    {
+      "name": "es.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cshisan.elasticsearch.config.EsConfig"
+    },
+    {
+      "name": "es.scheme",
+      "type": "java.lang.String",
+      "sourceType": "com.cshisan.elasticsearch.config.EsConfig"
+    }
+  ],
+  "hints": []
+}
